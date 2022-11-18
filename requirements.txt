@@ -1,0 +1,10 @@
+cython
+numpy
+Pillow>=5.4.1
+scikit-image>=0.15
+scipy>=1.2.1
+mmcv==0.2.13
+loguru==0.6.0
+opencv-contrib-python==4.6.0.66
+open3d==0.16.0
+setuptools==58.2.0
